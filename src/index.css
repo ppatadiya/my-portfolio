@@ -1,0 +1,14 @@
+/* index.css or similar */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background-color: #121212; /* dark background for full screen */
+  color: #eee;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  min-height: 100vh;
+}
